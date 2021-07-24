@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.iamsjy.com/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-24T05:12:54.164Z</updated>
+    <updated>2021-07-24T05:16:03.246Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://blog.iamsjy.com/rss/index.html"/>
     <link rel="self" href="https://blog.iamsjy.com/rss/feed.atom"/>
@@ -1922,6 +1922,16 @@ Google 翻译手机 APP 新版 - 谷歌翻译终于可在中国无障碍正常�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[杨振宁]]></title>
+        <id>http://www.lifeweek.com.cn/2021/0721/55288.shtml</id>
+        <link href="http://www.lifeweek.com.cn/2021/0721/55288.shtml"/>
+        <updated>2021-07-21T05:50:40.000Z</updated>
+        <summary type="html"><![CDATA[天才：创造力与平衡感]]></summary>
+        <author>
+            <name>封面故事_三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[想趁着教育优惠薅一笔羊毛？挑选 M1 Mac 的门道，都在这了]]></title>
         <id>https://www.ifanr.com/?p=1428576&amp;utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</id>
         <link href="https://www.ifanr.com/1428576?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
@@ -2436,6 +2446,16 @@ ZCloud
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[夏日阅读]]></title>
+        <id>http://www.lifeweek.com.cn/2021/0714/55256.shtml</id>
+        <link href="http://www.lifeweek.com.cn/2021/0714/55256.shtml"/>
+        <updated>2021-07-14T00:29:54.000Z</updated>
+        <summary type="html"><![CDATA[是时候拾起漫画了]]></summary>
+        <author>
+            <name>封面故事_三联生活周刊</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TextSeek - 桌面全文搜索引擎工具，像百度一样搜索硬盘文件内容 (Win / Mac)]]></title>
         <id>https://www.iplaysoft.com/?p=5518</id>
         <link href="https://www.iplaysoft.com/textseek.html"/>
@@ -2781,6 +2801,16 @@ Foxit Reader 福昕阅读器软件中文版下载 (好用快速免费，可制�
 第二次就是走的我个人的拉片流程，建立了Excel表格，对漫画中出现的所有的各大门派，各大势力，绝学，法器，红尘仙，山海种，天灾；都做了简单的归类整理，并标注每件事发生的相关剧情信息；这一次我得出的结论是：传武中的故事和架构是要比我想象的更加严谨合理的；剧情其实也并不是我一开始认为的纯线性平铺直叙；而是不同的线在一开始就交织并行了，虽说不上草蛇灰线，但确实处处有伏笔；所有中期出现的关键剧情其…]]></summary>
         <author>
             <name>呆呆兽星君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中考定终身？]]></title>
+        <id>http://www.lifeweek.com.cn/2021/0707/55247.shtml</id>
+        <link href="http://www.lifeweek.com.cn/2021/0707/55247.shtml"/>
+        <updated>2021-07-07T00:26:00.000Z</updated>
+        <summary type="html"><![CDATA[教育改革与个体选择]]></summary>
+        <author>
+            <name>封面故事_三联生活周刊</name>
         </author>
     </entry>
     <entry>
@@ -3262,6 +3292,16 @@ iOS 11 正式版有什么新功能？全部新功能特性评测+体验视频
 网易游戏为什么大多是和风游戏（手游）？]]></summary>
         <author>
             <name>轻梨工作室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重返金曲时代]]></title>
+        <id>http://www.lifeweek.com.cn/2021/0630/55206.shtml</id>
+        <link href="http://www.lifeweek.com.cn/2021/0630/55206.shtml"/>
+        <updated>2021-06-30T00:42:16.000Z</updated>
+        <summary type="html"><![CDATA[有没有一首歌曾让你泪流满面（1990～1999）]]></summary>
+        <author>
+            <name>封面故事_三联生活周刊</name>
         </author>
     </entry>
     <entry>

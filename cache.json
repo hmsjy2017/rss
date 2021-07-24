@@ -1493,6 +1493,49 @@
           "title": "如何评价 6 月 11 日公测的《鬼泣-巅峰之战》手游？"
         }
       ]
+    },
+    {
+      "title": "封面故事_三联生活周刊",
+      "feedUrl": "http://app.lifeweek.com.cn/?app=rss&controller=index&action=feed&catid=1",
+      "siteUrl": "http://app.lifeweek.com.cn?app=rss&controller=index&action=feed&catid=1",
+      "articles": [
+        {
+          "id": "http://www.lifeweek.com.cn/2021/0721/55288.shtml",
+          "author": null,
+          "description": "天才：创造力与平衡感",
+          "link": "http://www.lifeweek.com.cn/2021/0721/55288.shtml",
+          "publishedOn": "2021-07-21T05:50:40.000Z",
+          "wordCount": 121,
+          "title": "杨振宁"
+        },
+        {
+          "id": "http://www.lifeweek.com.cn/2021/0714/55256.shtml",
+          "author": null,
+          "description": "是时候拾起漫画了",
+          "link": "http://www.lifeweek.com.cn/2021/0714/55256.shtml",
+          "publishedOn": "2021-07-14T00:29:54.000Z",
+          "wordCount": 134,
+          "title": "夏日阅读"
+        },
+        {
+          "id": "http://www.lifeweek.com.cn/2021/0707/55247.shtml",
+          "author": null,
+          "description": "教育改革与个体选择",
+          "link": "http://www.lifeweek.com.cn/2021/0707/55247.shtml",
+          "publishedOn": "2021-07-07T00:26:00.000Z",
+          "wordCount": 118,
+          "title": "中考定终身？"
+        },
+        {
+          "id": "http://www.lifeweek.com.cn/2021/0630/55206.shtml",
+          "author": null,
+          "description": "有没有一首歌曾让你泪流满面（1990～1999）",
+          "link": "http://www.lifeweek.com.cn/2021/0630/55206.shtml",
+          "publishedOn": "2021-06-30T00:42:16.000Z",
+          "wordCount": 126,
+          "title": "重返金曲时代"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
