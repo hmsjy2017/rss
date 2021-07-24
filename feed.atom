@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.iamsjy.com/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-24T04:56:39.535Z</updated>
+    <updated>2021-07-24T05:01:24.709Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://blog.iamsjy.com/rss/index.html"/>
     <link rel="self" href="https://blog.iamsjy.com/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[台风路径 – 实时查询台风路径[微信小程序]]]></title>
+        <id>https://www.appinn.com/?p=39368</id>
+        <link href="https://www.appinn.com/typhoon-path-wechat-miniapp/"/>
+        <updated>2021-07-24T04:34:24.000Z</updated>
+        <summary type="html"><![CDATA[台风路径是一款专业的、干净、整洁的微信小程序，用来实时查询台风路径，有详实的数据、动画，还包括用户上传的实景图、雷达、云图、风场等内容。还能提醒“2小时内会不会下雨”、通过短信订阅台风信息。@Appi]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[器材有价，数据无价：聊聊我的影像文件存储思路]]></title>
         <id>https://sspai.com/post/67438</id>
@@ -201,6 +211,16 @@ Windows 是一个多用户的操作系统，从注册表，到文件目录都严
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何快速保留或删除手机里的照片]]></title>
+        <id>https://www.appinn.com/?p=39360</id>
+        <link href="https://www.appinn.com/how-to-organize-photos-quickly/"/>
+        <updated>2021-07-23T02:43:00.000Z</updated>
+        <summary type="html"><![CDATA[来自@李二嫂的猪 的问题：求图片快速保留或删除的安卓应用，记得用过图片筛选的应用，可以逐张展示文件夹中的照片，滑动代表保留和删除。 在发出问题后不久，二猪就得到了答案：Slidebox，对于这个应用，]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[派早报：2020 东京奥运会将于今日开幕、Apple 开启 Apple Store 零售店夏令营活动等]]></title>
         <id>https://sspai.com/post/67876</id>
         <link href="https://sspai.com/post/67876"/>
@@ -284,6 +304,16 @@ Twitter 正在测试推文上赞成和反对功能
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Water Resistance Tester – 手机气密性检测，根据气压计测试手机防水性[Android]]]></title>
+        <id>https://www.appinn.com/?p=39354</id>
+        <link href="https://www.appinn.com/water-resistance-tester-for-android/"/>
+        <updated>2021-07-22T07:58:36.000Z</updated>
+        <summary type="html"><![CDATA[Water Resistance Tester 是一款 Android 应用，它根据手机内置的气压计来测试手机的 IP67/IP68 防水密封是否完好，简单易用，只需要按一下屏幕。@Appinn 虽然]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[从目标设定到逐步完成，这是我的人生规划方法论]]></title>
         <id>https://sspai.com/post/67738</id>
         <link href="https://sspai.com/post/67738"/>
@@ -305,6 +335,76 @@ Matrix 是少数派的写作社区，我们主张分享真实的产品体验，�
 而这里的问题在于，意义在大多数时候是一个被社会评价影响很深的概念。迫于家庭、职业、生存压力，我们会将目标和规划的意义最终落地到社会…]]></summary>
         <author>
             <name>lc4t</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彩云天气 Pro 限免，并赠送 1 年 SVIP 超级会员，提供 2 日降雨预报图，安卓用户也可领取 1 个月]]></title>
+        <id>https://www.appinn.com/?p=39350</id>
+        <link href="https://www.appinn.com/caiyun-weather-app-svip/"/>
+        <updated>2021-07-21T09:24:14.000Z</updated>
+        <summary type="html"><![CDATA[彩云天气 是一款能够告诉你所在的街道，几分几秒会下雨的天气预报应用。目前彩云天气Pro 版本正在 App Store 限免，原价 98 元，并赠送 1 年 SVIP 超级会员，包括云量预报图、2 天降]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lyricify – 为 Spotify、iTunes、Music Center、QQ音乐、网易云音乐、YesPlayMusic 提供滚动歌词[Windows]]]></title>
+        <id>https://www.appinn.com/?p=39347</id>
+        <link href="https://www.appinn.com/lyricify-app/"/>
+        <updated>2021-07-21T07:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Lyricify 是一款能够为 Spotify、iTunes、Music Center、QQ音乐、网易云音乐、YesPlayMusic 提供滚动歌词的 Windows 工具，拥有多种显示方式，支持本地]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Versefy – 为 Spotify、TIDAL、VLC、foobar2000、Winamp 匹配并下载歌词[Windows]]]></title>
+        <id>https://www.appinn.com/?p=39342</id>
+        <link href="https://www.appinn.com/versefy-view-the-lyrics-for-win/"/>
+        <updated>2021-07-20T09:12:55.000Z</updated>
+        <summary type="html"><![CDATA[Versefy 是一款轻量级工具，用来为 Spotify、TIDAL、VLC、foobar2000、Winamp 几种音乐播放器匹配并下载歌词的 Windows 工具。@Appinn 能自动下载歌词真]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layouts – 保存窗口大小与位置布局，并随时恢复[macOS]]]></title>
+        <id>https://www.appinn.com/?p=39332</id>
+        <link href="https://www.appinn.com/layouts-for-macos/"/>
+        <updated>2021-07-20T02:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Layouts 是一款能保存已打开软件窗口大小与位置布局，并在未来随时恢复到之前状态的 macOS 工具，针对一些程序如 Chrome，还能保存并恢复标签页。而通过 iCloud 同步，还能在另外的电]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typeshift – 我愿称之为“词独（Wordoku）”的拼词游戏[iPhone/Android]]]></title>
+        <id>https://www.appinn.com/?p=39336</id>
+        <link href="https://www.appinn.com/typeshift-game/"/>
+        <updated>2021-07-19T06:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Typeshift 是一款拼单词的 iPhone、Android 小游戏，玩家只需要滑动字母，拼出单词即可通关。@Appinn 来自发现频道，@suntrise 同学的推荐： 继 Sudoku（数独）]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nomacs – 免费、开源，支持同步浏览的图片浏览器]]></title>
+        <id>https://www.appinn.com/?p=39329</id>
+        <link href="https://www.appinn.com/nomacs-image-viewer/"/>
+        <updated>2021-07-19T02:03:00.000Z</updated>
+        <summary type="html"><![CDATA[nomacs 是一款可以在多个 nomacs 实例间同步浏览的图片浏览器工具，免费、开源，跨平台，最典型应用是在双显示器，为用户同步展示照片。@Appinn 青小蛙楼下有一家看起来比较专业的打印店，里]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tager – 免费的 macOS 文件夹图标自定义工具（与系统原生功能效果不同）]]></title>
+        <id>https://www.appinn.com/?p=39325</id>
+        <link href="https://www.appinn.com/tager-for-macos/"/>
+        <updated>2021-07-18T06:56:19.000Z</updated>
+        <summary type="html"><![CDATA[Tager 是一款免费的 macOS 文件夹图标自定义工具，可以很方便的通过右键菜单，更换文件夹图标，可以是文字，也可以是图形。@Appinn 更换文件夹图标这种事情呢，macOS 系统其实是自带的，]]></summary>
+        <author>
+            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
