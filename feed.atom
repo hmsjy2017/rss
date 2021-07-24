@@ -2,10 +2,299 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.iamsjy.com/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-24T08:08:17.856Z</updated>
+    <updated>2021-07-24T08:19:06.090Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://blog.iamsjy.com/rss/index.html"/>
     <link rel="self" href="https://blog.iamsjy.com/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[谷歌公布 Chrome 隐私沙盒计划的详细时间线]]></title>
+        <id>https://www.oschina.net/news/151970/google-announce-privacy-sandbox-timeline</id>
+        <link href="https://www.oschina.net/news/151970/google-announce-privacy-sandbox-timeline"/>
+        <updated>2021-07-24T09:24:00.000Z</updated>
+        <summary type="html"><![CDATA[上个月，谷歌宣布将推迟 Chrome 逐步停止支持第三方 cookie 的计划，并发布了其隐私沙盒计划的时间表。现在，其公布了隐私沙盒计划的详细时间线。
+ 
+
+ 
+可以看到，谷歌将隐私沙盒时间线分为四个部分，分别是打击网络上的垃圾邮件和欺诈、显示相关内容和广告、衡量数字广告和加强跨站点隐私边界，并在每个部分中列出了相关的 API。根据谷歌表示，这些 API 在并不会马上大规模部署，但最终会在第一阶段之前会部署到位。其中，OT 表示 origin trial，是 Chrome 中测试新网络技术的一种方法。
+ 
+此外，文中还提到了隐私沙盒计划解决隐蔽跟踪技术的提案，包括指纹识别和网络级跟踪。其中，SameSite Cookie、用户代理客户端提示 API 和 HTTP 缓存分区都已大规模启动，而 DNS-over-HTTPS 的规模化可用性计划在今年下半年开始，WebID API、用户代理减少、Gnatcatcher 和 Origin-Bound Cookies 计划从 2022 年下半年开始。
+ 
+该时间线计划每月更新一次，感兴趣的开发者可以前往查阅。]]></summary>
+        <author>
+            <name>开源中国-最新资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 的 Microsoft Store 即将上架 Edge 浏览器]]></title>
+        <id>https://www.oschina.net/news/151969/edge-coming-to-windows-11-microsoft-store</id>
+        <link href="https://www.oschina.net/news/151969/edge-coming-to-windows-11-microsoft-store"/>
+        <updated>2021-07-24T09:22:00.000Z</updated>
+        <summary type="html"><![CDATA[近日，Windows 11 的 Microsoft Store 上架了 Microsoft Edge Browser，这意味着 Edge 浏览器以后将通过 Microsoft Store 进行更新分发。
+ 
+
+ 
+微软在上个月举办的 Windows 11 发布会上介绍了改进过的 Microsoft Store，其表示将会带来比以往更多的应用程序，并且欢迎更多的第三方应用上架商店。换句话说，用户未来可以通过商店下载其他的 Web 浏览器、Microsoft Teams、VLC 播放器和其他的完整桌面应用。
+ 
+不过目前上架商店的 Microsoft Edge Browser 似乎只是一个安装器，安装完它之后会启动新的下载程序来完成“真正”的 Edge 安装。
+ 
+
+ 
+此外，Windows 11 的 Microsoft Store 还支持下载 Edge 浏览器的扩展，在搜索栏输入"Edge"将显示一些专为 Chromium 版本浏览器设计的新扩展。当前的扩展商店没有消失，这意味着用户可以从两个商店下载和安装扩展。
+ 
+除了 Edge，微软还将记事本和绘图应用引入了 Microsoft Store。这些流行的系统自带应用成为了 Windows 11 上独立的可更新应用程序，在 Microsoft Store 上有专属的位置和页面。这意味着记事本、画图和其他原生 Windows 应用程序未来可以通过 Microsoft Store 自动接收新功能和升级，而无需等待 Windows 11 的系统更新。]]></summary>
+        <author>
+            <name>开源中国-最新资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus 坐镇的全球开源技术峰会 GOTC，深圳站来啦！]]></title>
+        <id>https://www.oschina.net/news/151967/gotc-2021-shenzhen-intro</id>
+        <link href="https://www.oschina.net/news/151967/gotc-2021-shenzhen-intro"/>
+        <updated>2021-07-24T08:34:00.000Z</updated>
+        <summary type="html"><![CDATA[GOTC 2021 深圳站来啦！
+ 
+在月初刚刚结束的 GOTC 上海站上，无数开源爱好者在上海世博中心欢聚一堂。大家现场聆听了 Linus Torvalds 维护 Linux 内核三十年来的感想，见证了七大全球顶级开源基金会掌门人的“巅峰论坛”，国内首座开源长廊也让现场观众流连忘返，展现了开源文化历史中的璀璨群星……
+ 
+现在，我们的旅程将在中国最具活力的创新之城 —— 深圳延续！
+ 
+这次 GOTC 深圳站还将给大家带来哪些惊喜？让我们抢先一睹为快：
+ 
+开源原生商业论坛
+ 
+近年来开源商业化受到了越来越多资本与市场的关注，据不完全统计，仅国内就有约 20 家开源初创公司得到国际资本的青睐。
+ 
+随着越来越多的开源初创公司取得巨大的商业成功，相信很多人都对开源商业化的成功秘诀产生了好奇。而各家的成功之道或许又不尽相同，其中也不乏各有各的艰辛，这也是为开源圈所关注的话题。
+ 
+在 7 月 31 日召开的 GOTC 全球开源技术峰会上，我们特设了【开源原生商业论坛】，在此论坛上，我们将邀请国内开源创业公司分享心路历程与客户案例，同时还将邀请国际与国内关注开源的投资机构分享他们在这一领域的洞见。
+ 
+【One more thing】中国开源原生商业联盟启动仪式。
+ 
+更多开源论坛
+ 
+在 GOTC 2021 上海站中，主办方带来了人工智能和云原生两大开源前沿技术领域的分论坛，为参会者提供了干货满满的技术议题，提供了技术交流的平台。而在即将开始的深圳站中，主办方将带来多达 14 个开源技术领域分论坛，包括：
+ 
+ 
+ 
+大前端新趋势
+ 
+ 
+分布式数据库与存储
+ 
+ 
+操作系统
+ 
+ 
+开源云原生计算时代论坛
+ 
+ 
+边缘计算
+ 
+ 
+编程语言艺术
+ 
+ 
+LF AI & Data Forum 2021
+ 
+ 
+音视频性能优化
+ 
+ 
+开源安全新动向
+ 
+ 
+嵌入式与 IoT
+…]]></summary>
+        <author>
+            <name>开源中国-最新资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开放原子读书会第 3 期：如何从 0-1 搭建开源社区]]></title>
+        <id>https://www.oschina.net/news/151966</id>
+        <link href="https://www.oschina.net/news/151966"/>
+        <updated>2021-07-24T08:26:00.000Z</updated>
+        <summary type="html"><![CDATA[开放原子读书会将于2021年7月28日迎来第3期的聚会，想了解如何创建一个成功的开源社区，并让社区项目保持正常运转吗？7月28日 20:00-21:30锁定开放原子读书会直播间，《社区运营的艺术》给你答案！
+ 
+
+ 
+“归属感使人们驻留在社区。这种归属感是社区建设的目标。强大社区的标志就是，它的成员们都拥有归属感。”适合本书读者：专业的社区经理，志愿者和社区领导人，商业组织，开源软件的开发者，市场营销人员，活动家。
+ 
+本期内容简介
+ 
+《社区运营的艺术（第2版）》的作者Jono Bacon用自己多年经验和教训试着给读者提供一些参考，包括如何建立战略规划、如何进行有效的沟通、如何创建简单易用的流程、如何运用社交媒体扩大社区的影响力等，同时分享了对知名社区领袖采访的经历，帮助读者窥探顶级社区成功的奥秘。
+ 
+书籍作者介绍
+ 
+Jono Bacon 是一位出色的社区经理、顾问，以及四本书的作者。现担任Ubuntu社区这一全球性社区的经理，他写的关于开源软件的博客始终是最受欢迎的博客之一，同时他创立了社区领导人峰会。
+ 
+本期嘉宾介绍
+ 
+开放原子读书会第3期，此次读书会主持人由开放原子教育教研总监郭晧担任，直播期间欢迎踊跃向嘉宾提问，此次读书会直播干货满满，不容错过哦～
+ 
+我们邀请了微众银行开源管理办公室负责人钟燕清、LFAPAC开源布道师马景贺及ApacheDubbo与Apollo PMC邹毅贤，3位嘉宾将共同探讨交流：如何创建一个成功的开源社区并让社区项目保持正常运转？
+ 
+
+ 
+邀请好友一起读书还有奖品拿
+ 丰富奖品送到手软！
+ 
+邀请达人奖品送不停
+ 
+（开放原子读书会第3期-邀请达人榜奖励规则图）
+ 
+
+ 
+提前预约，一起读书！如何建立战略规划？如何进行有效的沟通？如何创建简单易用的流程？一切答案就在7月28日20:00-21:30，马上扫描下方海报二维码预约直播：
+ 
+
+ 
+长按保存 分享立即扫码 预约直播]]></summary>
+        <author>
+            <name>开源中国-最新资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook 分享迁移到 MySQL 8.0 的经验]]></title>
+        <id>https://www.oschina.net/news/151964/facebook-mysql-8-0-migration</id>
+        <link href="https://www.oschina.net/news/151964/facebook-mysql-8-0-migration"/>
+        <updated>2021-07-24T08:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Facebook 在一篇博客中分享了该公司在某种程度上艰难的大规模跨越式迁移到 MySQL 8.0 版本的经验。此前，其一直使用的是 MySQL 5.6 版本。
+ 
+MySQL 是由 Oracle 开发的开源数据库，为 Facebook 的一些最重要的工作负载提供支持。Facebook 方面称，MySQL 的每个新主要版本都需要其花费大量时间和精力来迁移工作负载。其中挑战包括有： 
+ 
+ 
+ 
+将其自定义功能移植到新版本
+ 
+ 
+确保复制在主要版本之间兼容
+ 
+ 
+最小化现有应用程序查询所需的更改
+ 
+ 
+修复阻止服务器支持其工作负载的性能回归
+ 
+ 
+
+ 
+根据透露，Facebook 上次升级到 MySQL 5.6 花了一年多的时间；而此向 MySQL 8.0 的升级也花了好几年的时间。在 5.7 版本发布的时候，Facebook 仍在开发 5.6 版上的 LSM-Tree 存储引擎 MyRocks。鉴于在构建新存储引擎的同时升级到 5.7 会显着减缓 MyRocks 的进度，因此该团队选择继续使用 5.6 直到 MyRocks 完成。而 MySQL 8.0 则刚好是在 MyRocks 完成时发布的，所以 Facebook 选择升级以改进其存储引擎。
+ 
+Facebook 指出，迁移到 8.0 明显比迁移到 5.6 要更困难。他们有 1700 个代码补丁要从其定制的 MySQL 5.6 分支迁移到 8.0。由于 Facebook 的 MySQL 新功能和不断添加到 5.6 代码库中的修复，使得这项工作变得非常复杂。
+ 
+因为从 5.6 到 8.0 的升级完全跳过了 5.7，一些在 5.6 中活跃的 API 要么被弃用、要么被完全删除；这也就意味着任何使用旧 API 的应用程序都需要更新。且 Facebook 的一些功能也与 8.0 中的类似功能不向前兼容，需要弃用和向前迁移。
+ 
+还有自定义代码文档参差不齐的问题。Facebook 称，它的大多数自定义代码都有良好的注释和文档。但其他的代码没有很好的文档，Facebook 需要挖掘旧的文件、帖子和代码注释来了解历史。
+ 
+最终，Facebook 方面评估了 2300 多个补丁并将其中的 1500 个移植到了 MySQL 8.0。“我们已将许多 InnoDB 副本集转换为完全在 8.0 上运行。其余的大多数都处于迁移路径的不同阶段。现在我们的大部分自定义功能都已移植到 8.0，更新到 Oracle 的次要版本相对容易，我们计划跟上最新版本的步伐。”
+ 
+“尽管我们在迁移的道路上遇到了种种障碍，但我们已经看到了运行8.0的好处。总的来说，新版本大大扩展了我们在 MySQL @ Facebook 上所能做的事情。”
+ 
+更多详情可查看官方博客。]]></summary>
+        <author>
+            <name>开源中国-最新资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在双核的服务器上，使用多线程操作可以提升性能吗？]]></title>
+        <id>https://www.oschina.net/question/3515743_2323292</id>
+        <link href="https://www.oschina.net/question/3515743_2323292"/>
+        <updated>2021-07-24T08:16:00.000Z</updated>
+        <summary type="html"><![CDATA[在一段业务逻辑中有部分比较复杂的运算，4层循环，循环次数是不一定的，循环中没有IO操作，如果这里把运算提交到线程池，可以提升性能吗？]]></summary>
+        <author>
+            <name>开源中国-最新资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 因一个字符错误搞砸了所有 Chromebook]]></title>
+        <id>https://www.oschina.net/news/151962/a-new-chrome-os-91-update-is-breaking-chromebooks</id>
+        <link href="https://www.oschina.net/news/151962/a-new-chrome-os-91-update-is-breaking-chromebooks"/>
+        <updated>2021-07-24T08:13:00.000Z</updated>
+        <summary type="html"><![CDATA[上周 Google 向 Chromebook 推送了 Chrome OS 91，随后有大量用户向 Google 报告他们的设备在升级到 91.0.4472.147 后发现 CPU 长期处于满负荷运载中，Google 随后不久就撤消了该更新，并将用户的系统降级至 91.0.4472.114。近日 Google 又向用户推送了一次版本更新，该版本号为 91.0.4772.165，这次系统更新引入的问题比上一次更加严重。
+ 
+
+ 
+根据用户反馈，更新至这个新的 Chrome OS 后，系统会锁上用户的 Chromebook。即使用户输入了正确的账号密码也无法进入系统桌面，甚至部分用户的电脑会出现循坏开机的状况。出现这些情况后，用户只能通过 U 盘恢复电脑，由于这个系统问题实在是太过突然，不少用户的重要文件都出现了不同程度的丢失。
+ 
+因此当你在系统托盘中看到系统更新提示后，千万不要关闭你的 Chromebook。否则，Chrome OS 会在重启后自动安装更新，这意味着你的设备会被更新至有问题的 91.0.4772.165 版本。
+ 
+
+ 
+虽然 Google 在意识到了这个问题后，迅速将系统更新从其服务器上撤了下来，但有不少用户已经更新了系统。
+ 
+
+ 
+那么此次错误到底因何而起呢？开发者通过代码比对工具发现了该文件中的差异，从中我们可以看到，Google 的开发者忘记在条件语句中添加第二个"&"，从而阻止了 Chrome OS 对用户登录信息进行解密，而这正是登陆设备所必须的信息。
+ 
+在推出 Chrome OS 正式版本之前，Google 还率先推出了三个开发者版本，我们不确定这个重大的错误是如何通过三个开发者版本之后还能进入稳定版的，整个事件凸显了 Google 对 Chrome OS 版本缺乏足够严格的质量控制 —— 对于打算长期使用 Chrome OS 的用户来说，这肯定不是一个好现象。
+ 
+目前针对此次事故的修复补丁已推出，用户可以放心更新了。要想万无一失，用户还是要养成定期备份重要文件的好习惯。]]></summary>
+        <author>
+            <name>开源中国-最新资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[助力企业拥抱云原生，端点科技出席全球开源技术峰会 GOTC 深圳站]]></title>
+        <id>https://www.oschina.net/news/151961</id>
+        <link href="https://www.oschina.net/news/151961"/>
+        <updated>2021-07-24T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[近年来，随着国家的重视日渐提高，开源首次被列入十四五规划，国内开源软件发展进入新时期，越来越多优秀的开源软件厂商陆续涌现，获得资本青睐。国内开源软件产业蓬勃发展。
+ 
+今年 3 月，杭州端点网络科技有限公司宣布完成 A 轮共超 4 亿元的融资，由红杉资本领投，老股东阿里云、耀途资本跟投。
+ 
+端点是一家新商业软件提供商，面向企业客户，主要提供的是技术底座和业务解决方案。端点的核心产品包括企业数字化平台（Erda）、软件生产系统（Trantor）、软件设计体系（NUSI）、智能集成平台（Mule）、企业智能业务平台（Gaia）等。其中技术底座主要由 Erda 和 Trantor 构成，Erda 是研发底座，包括多云管理、DevOps、微服务治理和快数据平台；Trantor 是研发体系，运行在 Erda 之上，提供低代码和高效开发的能力。
+ 
+随着近年来云原生架构设计的流行，越来越多的企业正在拥抱它，享受它带来的红利。而提到云原生，企业第一步就是搭建自己的容器集群，它已然成为了云原生时代软件开发和运维的标准基础设施。而同时系统的复杂度也在提升，应用管理和系统运维都会受到一定的挑战。Eeda 项目诞生的目的，就在于帮助企业轻松、快速地搭建云原生容器集群系统。
+ 
+Erda 项目是一个一站式云原生 PaaS 平台，主要使用 Go 语言开发，采用基于 Kubernetes 和以应用为中心的 DevOps 和微服务治理的多云架构，由 erda-ui、erda-proto、erda-infra、erda-actions、erda-addons 等组件组成。项目团队的愿景是能够在 Erda 平台上构建任何类型的应用，持续提升应用研发效能；能够将应用部署、分发到任何云、任何地方；能以应用为中心持续完成应用的监控、诊断、治理。
+ 
+今年 4 月，端点科技将 Erda 平台 70w+ 核心代码完全开源，同时将整个 Erda 团队的日常迭代开发全部转移到 GitHub 上执行，全面拥抱开源。Erda 技术团队表示，做开源这件事情，他们想得非常清楚，要做就是全部开源 —— 不留所谓的高级功能（私货），不留内部代码分支，整个团队的日常迭代开发全部转移到 GitHub 上执行。“我们希望做一个长期主义者，用 3、5年、更长的时间持续建设一个足够好的开源社区。”
+ 
+想要了解 Erda 项目的更多信息，敬请关注 7 月 31 日-8 月 1 日举办的全球开源技术峰会 GOTC 2021 深圳站。端点科技技术专家，Erda SRE 团队负责人骆冰利将作为「开源云原生计算时代论坛」的演讲嘉宾，带来主题为“大规模容器集群实践之路”的精彩分享。
+ 
+
+ 
+全球开源技术峰会（the global opensource technology conference, GOTC）是由开放原子开源基金会与 Linux 基金会联合开源中国发起的，面向全球开发者的一场盛大开源技术盛宴。峰会将携头部开源公司和顶级开源项目一起亮相，覆盖云原生、人工智能、物联网、区块链、大前端、音视频、安全、操作系统、数据库、开源治理等多个技术领域，在为期 2 天的时间里，为开发者带来全球最新、最纯粹的开源技术，同时传播开源文化和理念，推动开源生态的发展和建设。
+ 
+峰会报名通道：https://gotc.oschina.net/]]></summary>
+        <author>
+            <name>开源中国-最新资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小豚当家 AI 全彩摄像头双频版明日开售：支持华为 HiLink，229 元]]></title>
+        <id>https://www.ithome.com/0/564/918.htm</id>
+        <link href="https://www.ithome.com/0/564/918.htm"/>
+        <updated>2021-07-24T08:09:04.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 7 月 24 日消息 根据华为智慧生活消息，小豚当家 AI 全彩摄像头双频版，将于 7 月 25 日零点在华为商城发售。该产品相比旧款新增了 5GHz Wi-Fi 连接功能，首发售价 229 元，售价仅比旧款增加了 15 元。
+
+这款智能摄像头可以输出 2K 分辨率视频（2304×1296），摄像头光圈 F2.0。云台可以水平方向 360° 转动，垂直 110° 调节，可以通过 AI 自动追踪人体以及宠物。摄像头具有微光全彩功能，即使在夜间也会输出彩色视频画面。
+
+IT之家了解到，小豚当家 AI 全彩摄像头双频版可以连接华为 HiLink 智能家居平台，同时支持联动华为智选智能门锁，主任回家后摄像头自动关闭，保护隐私；离开家后摄像头自动开启。以下为摄像头详细介绍：]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bytebase —— 数据库 Schema 变更管理工具]]></title>
+        <id>https://www.oschina.net/p/bytebase</id>
+        <link href="https://www.oschina.net/p/bytebase"/>
+        <updated>2021-07-24T08:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Bytebase 是一款聚焦在 Database schema change and version control 的工具。它主打的是在应用研发过程中变更数据库数据结构 (schema) 的这个场景，主要面向的人群是研发工程师和 DBA。...]]></summary>
+        <author>
+            <name>开源中国-最新资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitee 推荐 | 基于 WordPress 的高颜值自适应主题 Puock]]></title>
+        <id>https://gitee.com/licoy/wordpress-theme-puock</id>
+        <link href="https://gitee.com/licoy/wordpress-theme-puock"/>
+        <updated>2021-07-24T08:03:00.000Z</updated>
+        <summary type="html"><![CDATA[一款基于 WordPress 开发的高颜值自适应主题，支持白天与黑夜模式、无刷新加载等。]]></summary>
+        <author>
+            <name>开源中国-最新资讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软 Office 14315.20008 预览版发布：修复 Word 意外关闭等问题]]></title>
         <id>https://www.ithome.com/0/564/917.htm</id>
