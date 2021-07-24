@@ -11,7 +11,7 @@ sources:
   - href: http://app.lifeweek.com.cn/?app=rss&controller=index&action=feed&catid=1
   - href: https://rsshub.app/twitter/user/ruanyf
   - href: https://rsshub.app/infzm/
-  - href: https://flyhigher.top/feed
+#  - href: https://flyhigher.top/feed
 #  - href: https://rsshub.app/oschina/news
 #  - href: http://www.dgtle.com/rss/dgtle.xml
 #  - href: http://www.qdaily.com/feed.xml
